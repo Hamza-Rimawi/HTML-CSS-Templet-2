@@ -191,7 +191,7 @@ header .form i{
 .landing {
     position: relative;
     min-height: 100vh;
-    background-image: url("images/landing.jpg");
+    background-image: url("../images/landing.jpg");
     background-size: cover;
     background-color: black; 
 }
@@ -324,7 +324,7 @@ margin-right: 50px;
      padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     height: 600px;
-    background-image: url("images/background.jpg");
+    background-image: url("../images/background.jpg");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -532,7 +532,7 @@ bottom: -60px;
 .stats{
     position: relative;
     text-align: center;
-    background-image: url("images/stats.jpg");
+    background-image: url("../images/stats.jpg");
     background-size: cover;
 padding-top: var(--section-padding);
 padding-bottom: var(--section-padding);
@@ -718,7 +718,7 @@ top: -15px;
 .qoute{
 padding-top: var(--section-padding);
 padding-bottom: var(--section-padding);
-background-image: url(/images/qoute.jpg);
+background-image: url("../images/qoute.jpg");
 background-size: cover;
 text-align: center;
 position: relative;
@@ -849,7 +849,7 @@ border-top: 2px solid var(--main-color);
 .subscribe{
      padding-top: var(--section-padding);
 padding-bottom: var(--section-padding);
-background-image:url(images/subscribe.jpg);
+background-image:url("../images/subscribe.jpg");
 background-size: cover;
 position: relative;
 color: white;
@@ -1004,7 +1004,7 @@ text-align: center;
 footer{
     padding-top: calc(var(--section-padding) / 2);
 padding-bottom: calc(var(--section-padding) / 2);
-background-image: url(images/background.jpg);
+background-image: url("../images/background.jpg");
 background-size: cover;
 position: relative;
 color: white;
